@@ -1,4 +1,4 @@
-![Github readme banner](https://i.gifer.com/1HL.gif)
+![Github readme banner](assets/banner.gif)
 
 <!--
 **c4rlosc7/c4rlosc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
