@@ -2,16 +2,16 @@
 
 # Hello, I'm [Carlos Martinez]! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for open-source projects and technology. Here you'll find some of my personal projects, contributions to open-source, and more.
+Welcome to my GitHub profile! I'm a software engineer with a passion for building robust applications and solving complex problems.
 
 <h3 align="left">A passionate developer from Colombia</h3>
 <h4 align="left">I love to learn new things.</h4>
 
 ## About Me
 
-- 💻 I'm currently working as a [Job Title] at [Company].
-- 🌱 I'm constantly learning and exploring new technologies.
-- 🚀 I'm interested in web development, machine learning, and cloud computing.
+- 💻 I'm currently working as a developer at [Company].
+- 🌱 Software engineer by profession.
+- 🚀 Always eager to learn and explore new technologies
 
 ## Skills
 
