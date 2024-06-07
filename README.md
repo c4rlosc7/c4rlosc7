@@ -12,11 +12,12 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 - 💻 I'm currently working as a developer at [Company].
 - 🌱 Software engineer by profession.
 - 🚀 Always eager to learn and explore new technologies
+- 💬 Ask me about [Football, Science, Gym, Birds]
 
 ## Skills
 
 - **Programming Languages:** Python, Java
-- **Web Development:** React, Node.js
+- **Web Development:** Angular, React, Node.js
 - **Database:** MongoDB, MySQL
 - **Other:** Git, Docker, Kubernetes
 
