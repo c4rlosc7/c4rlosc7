@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 - **Programming Languages:** Python, Java
 - **Web Development:** Angular, React, Node.js
 - **Database:** MongoDB, MySQL
+- **Cloud Computer:** AWS, GCP, Microsoft Azure
 - **Other:** Git, Docker, Kubernetes
 
 ## Get in Touch
