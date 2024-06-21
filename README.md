@@ -1,4 +1,4 @@
-![Github readme banner](assets/cyberpunk.gif)
+![Github readme banner](assets/Machine.jpeg)
 
 # Hello, I'm [Carlos Martinez]! 👋
 
